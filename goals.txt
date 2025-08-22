@@ -1,0 +1,4 @@
+1. Use BEM naming scheme
+2. Use more semantic tags to structure your HTML
+3. In CSS use rems and percentages wherever possible
+4. Use max-width where needed
